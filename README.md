@@ -60,13 +60,6 @@ Bilingual (Arabic/English) corporate website for an accounting firm, with dynami
 
 ---
 
-## 📈 GitHub Stats
-
-![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eslam-Mostafa330&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Mostafa330&layout=compact)
-
----
-
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/islam-mostafa-876742273)
